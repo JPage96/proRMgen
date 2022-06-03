@@ -1,2 +1,0 @@
-# proRMgen
-Professional README generator
